@@ -1,0 +1,30 @@
+body
+{
+    margin: 0;
+}
+
+.TopContainer
+{
+    background-color: #e5f5f9;
+}
+
+.MiddleContainer
+{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.BottomContainer
+{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+h1
+{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}
